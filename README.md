@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Kauê! 👋</h1>
-<p align="center">Uma estudande de Desenvolvimento de Sistema, e um Programador Junior.</p>
+<p align="center">Uma estudande de Desenvolvimento de Sistema, pela ETEC Centro Paulo Souza, e um apaixonado por computação.</p>
 
 ---
 
