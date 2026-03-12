@@ -5,7 +5,7 @@
 
 
   </a>
-  <a href="https:https://www.linkedin.com/in/kau%C3%AA-guedes-2a7a333b6/">
+  <a href="https:https://https://www.linkedin.com/in/kau%C3%AA-guedes-2a7a333b6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:kguedes159@gmail.com">
